@@ -1,0 +1,1 @@
+(function() {    var toc =  [{"name":"Case Management","type":"item","tilePath":"","description":"","url":"assets/Case_Management.htm"},{"name":"Identity","type":"item","tilePath":"","description":"","url":"assets/Identity.htm"}];    window.rh.model.publish(rh.consts('KEY_TEMP_DATA'), toc, { sync:true });    })();
